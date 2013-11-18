@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WordPress Listening Plugin
  * Description: Displays the custom field "listening" at the bottom of posts
- * Version: 0.1.0
+ * Version: 1.0.0
  * Author: Chris Boyce <christopher.d.boyce@gmail.com>
  */
 
